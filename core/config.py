@@ -13,7 +13,7 @@ class Settings(BaseSettings):
     pinecone_index_name: str = "fde-it-support-rag"
     pinecone_namespace: str = "company-it-kb"
     embedding_model: str = "text-embedding-3-small"
-    groq_model = "openai/gpt-oss-20b"
+    groq_model: str = "openai/gpt-oss-20b"
     top_k: int = 4
     max_retries: int = 1
     admin_api_key: str = "change-me"
