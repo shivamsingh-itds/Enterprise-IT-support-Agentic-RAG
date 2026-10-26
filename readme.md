@@ -270,7 +270,7 @@ This project is developed for educational and portfolio purposes.
 
 **Shivam Singh**
 
-B.Sc. Information Technology | AI Engineer Aspirant
+ AI Engineer 
 
 - GitHub: [@shivamsingh-itds](https://github.com/shivamsingh-itds)
 - LinkedIn: [Shivam Singh](https://www.linkedin.com/in/shivamsingh-itds/)
